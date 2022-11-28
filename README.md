@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @JuanCarllo74
+- 👀 I’m interested in learning as much as I can to be able to develop myself personally and professionally
+- 🌱 I’m currently learning HTML5 and CSS3 and hopefully once I've learned enough about both, I'll start Javascript.
+- 📫 How to reach me by my email juancarllo37@gmail.com or instagram: https://instagram.com/juan_carllo74?igshid=ZDdkNTZiNTM=
+- 
+- (Versão em PT-br)
+- 👋 Olaaa, Sou @JuanCarllo74
+- 👀 Estou interessado em aprender o máximo que posso para poder me desenvolver pessoalmente e profissionalmente 
+- 🌱 Atualmente estou aprendendo HTML5 e CSS3 e espero assim que aprender o suficiente sobre ambos, começar Javascript.
+- 📫 Como chegar até mim: Pelo meu email juancarllo37@gmail.com ou o instagram: https://instagram.com/juan_carllo74?igshid=ZDdkNTZiNTM=
